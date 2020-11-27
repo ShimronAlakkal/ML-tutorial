@@ -1,25 +1,16 @@
-# takes in an input and computes the possible standard outputs for the input 
-
-def possibleCombinationOuput(val):
-
-  outputList = []
-
-  # check if the given value is a capital or not 
-
-  for i in range(len(val)):
-
-    outputList.append
-
-
-
-
-
-
-def isCapOrNot(val):
-
-  if ord(val)>=65 and ord(val)<=90:
-    return 'cap'
-  elif ord(val)>=97 and ord(val)<=123:
-    return 'nope'
-  else:
-    return 'damn boy'
+def calcTheOutputs(word):
+  
+  outputs = []
+  
+  # converts the string into both lower and upper and appends it to the output list 
+  
+  outputs = [ word.lower(),word.upper(), word.capitalize()]
+  
+  # Check for the number of outputs that could be recieved, in out case its going to be length of the word sqaured
+ 
+  
+      
+      
+      
+  
+  
