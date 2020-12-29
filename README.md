@@ -12,6 +12,5 @@ Tensorflow
 
 If you feel any doubt, feel free to [connect](https://www.instagram.com/shimeon.alakkal) with me.
 
-#     
 
-[<img src="https://www.flaticon.com/free-icon/instagram_1384063?term=instagram&page=1&position=11&related_item_id=1384063" width="25"/>](https://www.instagram.com/shimron.alakkal)       [<img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051333.svg" width="25"/>](https://www.linkedin.com/in/shimron-alakkal-884831196/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="25"/>](https://www.instagram.com/shimron.alakkal)       [<img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051333.svg" width="25"/>](https://www.linkedin.com/in/shimron-alakkal-884831196/)   [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="25"/>](https://www.youtube.com/channel/UCJml00OHo83sbAWGGdobLhg)
