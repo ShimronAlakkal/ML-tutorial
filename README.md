@@ -10,6 +10,13 @@ Scikit-Learn
 Tensorflow
 ```
 
+To set things up in a command, go to your project folder => open terminal there => perform the below command
+```bash
+pip install requirements.txt
+```
+this might show some errors, so be sure to upgrade your pip and have python installed and set up. 
+
+
 If you feel any doubt, feel free to [connect](https://www.instagram.com/shimeon.alakkal) with me.
 
 
