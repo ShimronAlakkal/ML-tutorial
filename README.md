@@ -23,8 +23,14 @@ this might show some errors, so be sure to upgrade your pip and have python inst
 
 If you feel any doubt, feel free to [connect](https://www.instagram.com/shimeon.alakkal) with me.
 
-# 2. JavaScript 
-Just look up the file(s) that are inside the JS folder and you'll be able to find things that are for you
+# 2. Dart
+Just check out the folder named dart above or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/dart)
+
+# 3. JavaScript 
+Just look up the file(s) that are inside the JS folder or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/javaScript)
+
+# 4. Go
+Click on the folder above named Go or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/go)
 
 
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="25" color="111111"/>](https://www.instagram.com/shimron.alakkal)       [<img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051333.svg" width="25"/>](https://www.linkedin.com/in/shimron-alakkal-884831196/)   [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="25"/>](https://www.youtube.com/channel/UCJml00OHo83sbAWGGdobLhg)
