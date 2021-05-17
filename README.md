@@ -1,5 +1,4 @@
-#Hi, 
-In this one folder, you'll be able to learn many stuff from ML, dart programming language, Go lang, javascript and many more.
+In this one, you'll be able to learn many stuff from ML, dart programming language, Go lang, javascript and many more.
 
 
 # 1. Machine Learning for beginners 
