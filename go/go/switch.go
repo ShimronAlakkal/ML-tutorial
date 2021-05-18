@@ -28,6 +28,6 @@ func main(){
       fmt.Println("The value of our variable is less than 1")
     default:
       fmt.Print("This section called default is not necessary but you can add it if you want to.")
-  }
+  } 
   
 }
