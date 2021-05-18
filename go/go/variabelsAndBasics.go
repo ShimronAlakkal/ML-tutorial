@@ -1,3 +1,6 @@
+
+//  INDEX 0
+
 // in go, you work with packages. So, essentially, when you're creating a new file and coding in it in go you're pretty much
 // creating a package in go. Main just allows others to know and use the package as a main one as of my understanding. 
 package main  // so you just type in package <type or name> to indicate it
