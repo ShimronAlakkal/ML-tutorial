@@ -32,6 +32,7 @@ func main(){
 	}
 }
 
+
 func Sample(sample float64 , sample2 float64 ) (res float64){
 	res = sample * sample2 
 	return 
