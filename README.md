@@ -29,7 +29,7 @@ Just check out the folder named dart above or click [here](https://github.com/Sh
 Just look up the file(s) that are inside the JS folder or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/javaScript)
 
 # 4. Go
-Click on the folder above named Go or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/go)
+Click on the folder above named Go or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/go/go)
 
 ###  
 
