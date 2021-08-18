@@ -4,13 +4,14 @@ In this one, you'll be able to learn many stuff from ML, dart programming langua
 # 1. Machine Learning for beginners 
 > In this tutorial, you'll be able to learn how to use Tensorflow, Numpy, Pandas, Scikit-Learn, Matplotlib etc.. for your projects and other applications.
 
-I would recommend you learn the stack as follows for ease of learning and better understanding :
+I would recommend you to learn the stack as follows for ease of learning and better understanding :
 ```
 Pandas
 Numpy
 Matplotlib
 Scikit-Learn
 Tensorflow
+OpenCV
 ```
 
 To set things up, go to your project folder => open terminal there => activate the environment => run the below command
