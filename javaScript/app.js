@@ -1,3 +1,6 @@
+//inorder to import a method or class, you've to use import
+import { sum } from "./utils.js";
+
 // declaring a variable in js
 // since this is a variable of no specific dtype, it's going to be null aka undefined
 var a;   
@@ -71,6 +74,21 @@ console.log(array[1]);
 array[2] = 'is cool';
 console.log(array);
 
+// to concatinate two arrays, use the .concat() method
+let a1 = [2,3,4];
+let a2 = [5,12,12,12,3,42,342,12,35,23,52,63,2];
+console.log(a1.concat(a2));
+
+
+
+// filtering in an array use array.filete()
+console.log(a2.filter( number => number>1 && number < 69));
+
+
+// you can use .map( x => fucntion ) to do stuff like this
+a2.filter( number => number>1 && number < 69).map(number => console.log(number,' is the number from a2 under filter') );
+
+
 // arrays can also be nested arrays aka multi-dimensional arrays
 var mdarray = [[1,2],[3,4]];
 console.log(mdarray[1][0]);
@@ -97,6 +115,18 @@ console.log(mdarray);
 
 
 // functions!! we're getting there boys
+
+// this is a simlple function that has a default param val to hold the space for a param that has not been passed on while function call
+function simple(param1, param2 ='something'){}
+
+// like in python you can reciece multiple params in the form of a list by using ... AKA the rest operator
+function simple2(...args){
+	console.log(args,' is the arguments passed in while function call, now in the form of a list');
+}
+
+simple2('hi',1,23,'hello,',[1213],true);
+
+
 // global variables 
 
 const pi = 3.1415;
@@ -270,13 +300,109 @@ console.log( parseInt("100111101", 2) );
 console.log( 5 === '5' ? 'this is JS' :'Its strict buddy boi' );
 
 
+// creating an object the is constant but can mutate its value
+const object = {PI : 3.14};
+
+console.log(object);
+
+object.PI = 222;
+console.log(object);
+
+
+// But since we want pi to be a constant and not change, we use object . freeze( obj namw )
+Object.freeze(object);
 
 
 
+// creting an anonymous function. The below function willbe stored in the variable. So use that to call the func like below
+let sum = (a,b) => a+b;
+
+console.log(sum(1,2)," should give you three");
 
 
 
+// lets now go to the spread operator
+let ab = [1,2,3];
+let ai = ab;  // both variales are in one memory location.. like two names for a single person
+console.log(ab,' is ab and a1 si ',ai);
+ab.push(a2[4]);
+console.log(ai,' is a1 after editing a');
 
+// if you wanna copy and have things not change up, use [...arg]
+
+let be = [12.23,121,4,533,3];
+let b1 = [...be]      // essentially creates a separate copy of the thing
+console.log(be,b1);
+be[0] = 2323232323;
+console.log(be,b1);
+
+
+
+// destructuring in objects 
+let dict = {pi:3.14,r:2};
+const {pi : v,r:radius} = dict ;
+
+// the above line just creates two variables v and radius and assigns them the value pi and r, taken from the object called dict
+console.log(v,radius);
+
+// destructuring in arrays
+const [x,y,,,s] = [1,2,3,4,5,6];
+// here x is 1,y 2 and 3 and 4 are skipped and then s is 5
+console.log(s);
+
+
+// destructuring in rest operator
+const [,,...args] = [1,2,3,4,23,23,42,343];
+console.log(...args);
+
+//  you could use the backtick to create awesome strings
+console.log(
+` This is so cooler than the normal guys. "double and 'singlw ' quots" 
+
+multilines and even ${a1} variables`
+	);
+
+
+
+// if your function is going to return an object with same key and value names,
+let join = (name, age, gender) =>  ({name,age,gender});   // exactly like return { name: name, age : age , gender : gender} 
+
+
+// creating a class
+// getter and setter in classes
+
+class Employee{
+
+	constructor(name,age,eid){
+		this.name = name;
+		this.age = age;
+		this.eid = eid;
+
+		this.profile = age * eid - 1000;
+	}
+
+	get empStatus(){
+		return this.profile;
+	}
+
+	set empStatus(age){
+		this.profile = age * this.eid -1000;
+	}
+
+}
+
+// use the new keyword with every class instantiation
+let emp = new Employee("john",123,111);
+console.log(emp.empStatus);
+emp.empStatus = 22;
+console.log(emp.empStatus);
+
+
+// //  usig the import
+// let ig = new InstaLogin('shimron',1234);
+// console.log(ig.uname, ig.pwd);
+
+sum();
 
 
 
