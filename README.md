@@ -32,6 +32,9 @@ Just look up the file(s) that are inside the JS folder or click [here](https://g
 # 4. Go
 Click on the folder above named Go or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/go/go)
 
+# 5. C++
+Click on the folder above named C++ or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/C++)
+
 ###  
 
 
