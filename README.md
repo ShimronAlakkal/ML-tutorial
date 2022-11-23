@@ -1,5 +1,7 @@
 In this one, you'll be able to learn many stuff from ML, dart programming language, Go lang, javascript and many more.
 
+## Edit: This repo isn't updated in a long time. Please do your own research after what is in this, it would be the best thing.
+
 
 # 1. Machine Learning for beginners 
 > In this tutorial, you'll be able to learn how to use Tensorflow, Numpy, Pandas, Scikit-Learn, Matplotlib etc.. for your projects and other applications.
