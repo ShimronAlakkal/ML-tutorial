@@ -46,8 +46,3 @@ Click on the folder above named Go or click [here](https://github.com/ShimronAla
 
 # 5. C++
 Click on the folder above named C++ or click [here](https://github.com/ShimronAlakkal/tutorial/tree/main/C++)
-
-###  
-
-
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="25" color="111111"/>](https://www.instagram.com/shimron.alakkal)       [<img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051333.svg" width="25"/>](https://www.linkedin.com/in/shimron-alakkal-884831196/)   [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg" width="25"/>](https://www.youtube.com/channel/UCJml00OHo83sbAWGGdobLhg)
